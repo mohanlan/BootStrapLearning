@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap 101 Template</title>
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="css/base.css">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="http://cdn.bootcss.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="http://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="nav_warp bg-theme-1 gradient">
+    	<div class="container">
+    		<ul class="nav navbar-nav navbar-left">
+    			<li class="navItem active border-right-dark"><a href="">返回首页</a></li>
+    			<li class="navItem border-left-light border-right-dark"><a href="">什么是租房宝</a></li>
+    			<li class="navItem border-left-light border-right-dark"><a href="">帮助中心</a></li>
+    			<li class="border-left-light"></li>
+    		</ul>
+			<ul class="nav navbar-nav navbar-right">
+				<li class="navItem  border-right-dark"><a href=""><small>欢迎你，黄晓辉</small>[退出]</a></li>
+				<li class="navItem border-left-light border-right-dark"><a href="">我的租房宝</a></li>
+				<li class="navItem border-left-light border-right-dark"><a href="">交易记录</a></li>
+				<li class="navItem border-left-light "><a href="">消息<span class="badge">2</span></a></li>
+			</ul>
+    	</div>
+    </div>
+    <div class="header">
+	    <div class="container">
+	    	<div class="page-header">
+	    		<!-- <div class="logo">
+	    			<img src="../images/logo.png">
+	    		</div>
+	    		<div -->
+	    		<h2><img src="images/logo.png"><span> | </span><small></small>收银台</h2>
+	    	</div>
+	    </div>
+	</div>
+	<div class="order">
+		<div class="container">
+			<div class="panel panel-default">
+				<div class="panel-heading">
+					<div class="row">
+						<div class="col-md-7"><p><Strong>文一路宋江苑80幢3单元503(3个月房租)</Strong></p>
+		    			<p><small>收款方：<span class="text-orange">张三</span>(中国建宋江苑设银行62286***5236)</small></p></div>
+		    			<idv class="col-md-5"><h2 class="pull-right text-orange">25620元</h2></idv>
+					</div>
+	    		</div>
+	    		<div>
+	    			12311
+	    		</div>
+	    	</div>
+		</div>
+	</div>
+	<div class="pay">
+		<div class="container">
+
+			<div class="border-orange"><p class="text-info"><span class="glyphicon glyphicon-exclamation-sign"></span>
+仅限持卡人本人操作，请如实填写以下信息用于实名身份验证。</p>
+			</div>
+			<div class="row row-content">
+				<div class="col-md-8">
+					<form action="" class="form-horizontal" role="form">
+						<div class="form-group">
+							<label for="inputText" class="col-md-3 control-label">本次支付：</label>
+							<div class="col-md-9">
+								<p class="form-control-static"><strong class="text-orange">5000元</strong></p>
+							</div>		
+						</div>
+						<div class="form-group">
+							<label for="inputText" class="col-md-3 control-label">付款银行：</label>
+							<div class="col-md-4">
+								<p class="form-control-static">中国工商银行<small>信用卡</small><a class="text-orange" data-toggle="tooltip" data-placement="top" title="Some tooltip text!" id="limited">限额</a></p>
+							</div>
+						</div>
+						<div class="form-group">
+							<label for="inputText" class="col-md-3 control-label">银行卡号：</label>
+							<div class="col-md-6">
+						      <input type="text" class="form-control" id="cardNumber" placeholder="">
+						    </div>
+						</div>
+						<div class="form-group">
+							<label for="inputText" class="col-md-3 control-label">持卡人姓名：</label>
+							<div class="col-md-4">
+						      <input type="text" class="form-control" id="cardNumber" placeholder="">
+						    </div>
+						</div>
+						<div class="form-group">
+							<label for="inputText" class="col-md-3 control-label">身份证号码：</label>
+							<div class="col-md-6">
+						      <input type="text" class="form-control" id="cardNumber" placeholder="">
+						    </div>
+						</div>
+						<div class="form-group">
+							<label for="inputText" class="col-md-3 control-label">银行预留手机：</label>
+							<div class="col-md-6">
+						      <input type="text" class="form-control" id="cardNumber" placeholder="">
+						    </div>
+						</div>
+						<div class="form-group">
+							<label for="inputText" class="col-md-3 control-label">手机验证码：</label>
+							<div class="col-md-3">
+						      <input type="text" class="form-control" id="cardNumber" placeholder="">
+						    </div>
+						    <div class="col-md-3">
+						    	<!-- <button id="yanzheng" type="button" class="btn btn-default btn-block">点击获取验证码</button> -->
+						    	<input type="button" id="yanzheng" class="btn btn-default btn-block" value="点击获取验证码">
+						    </div>
+						</div>
+						<div class="form-group">
+							<div class="col-md-6 col-md-offset-3">
+								<input type="checkbox"><small>保持卡记录，下次支付时只需要验证手机短信即可完成支付</small>
+							</div>
+						</div>
+						<div class="form-group">
+							<div class="col-md-6 col-md-offset-3">
+								<button type="button" class="btn btn-primary bg-orange">确认支付</button>
+								<a href="#">选择其他方式付款</a>
+							</div>
+						</div>
+					</form>
+				</div>
+				<div class="col-md-4">
+					<div class="row">
+						<div class="col-md-11 col-mod-offset-1 info">
+							<div class="info-top">
+								<img class="pull-left" src="images/anquan.png">
+								<p>快捷支付服务由租房宝和联动优势联合提供，支付信息经过严格加密保护，保障您的资金安全</p>
+							</div>
+							<div class="info-bottom">
+								<img src="images/logo-gray.png">
+								<img src="images/liandong-logo-gray.png">
+							</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="footer">
+		<div class="container">
+			<div class="copyRight">
+			Copyright  @2013  Zufangbao.com  杭州钧正科技有限公司 版权所有  <a href="">帮助中心</a>
+			</div>
+		</div>
+	</div>
+    <script src="http://cdn.bootcss.com/jquery/1.11.1/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script type="text/javascript">
+    	var time=60;
+    	var interval;
+    	$(function init(){
+	    	$("#yanzheng").on("click",function (){
+	    		var oba=this;
+	    		interval=setInterval(function(){yanzheng(oba)},"1000");
+	    	});
+    	})
+    	function yanzheng(o){
+    		if (time>0) {
+    			o.disabled=true;
+    			o.value=time+"秒后重新获取";
+    			time=time-1;
+    		}else if(time<=0){
+    			time=60;
+    			o.value="重新获取";
+    			o.disabled=false;
+    			clearInterval(interval);
+    		}	
+    	}
+    </script>
+  </body>
+</html>
