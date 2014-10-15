@@ -1,0 +1,736 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ms",
+				"op-ms	-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=100)';"
+			],
+			[
+				"ie",
+				"animtf-e	animation-timing-function: ease;"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"s",
+				"style	Tag"
+			],
+			[
+				"to",
+				"tooltip-arrow"
+			],
+			[
+				"border-ri",
+				"border-right-color"
+			],
+			[
+				"op",
+				"options	Default"
+			],
+			[
+				"mo",
+				"mouseover	.mouseover()"
+			],
+			[
+				"da",
+				"data-toggle"
+			],
+			[
+				"cla",
+				"clearInterval()	Window"
+			],
+			[
+				"cle",
+				"clearInterval()	Window"
+			],
+			[
+				"setI",
+				"setInterval()	Window"
+			],
+			[
+				"dis",
+				"disabled"
+			],
+			[
+				"rem",
+				"removeAttribute()"
+			],
+			[
+				"disa",
+				"disabled=false	Default"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"te",
+				"text	.text()"
+			],
+			[
+				"lo",
+				"log()	Math"
+			],
+			[
+				"onc",
+				"onclick"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"ho",
+				"hover"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"h",
+				"h3	Tag"
+			],
+			[
+				"bgc",
+				"bgc	background-color: #${1:fff};"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"li",
+				"li	:link"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"st",
+				"strong	Tag"
+			],
+			[
+				"fo",
+				"form	Tag"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"dr",
+				"drawImage()	Canvas 2"
+			],
+			[
+				"dra",
+				"drawImage()	Canvas 2"
+			],
+			[
+				"draw",
+				"drawImage()	Canvas 2"
+			],
+			[
+				"onlo",
+				"onload	Image"
+			],
+			[
+				"sr",
+				"src	Image"
+			],
+			[
+				"can",
+				"canvas	Default"
+			],
+			[
+				"fill",
+				"fillRect()	Canvas 2"
+			],
+			[
+				"trans",
+				"translate	Default"
+			],
+			[
+				"tran",
+				"translate()	Canvas 2"
+			],
+			[
+				"sha",
+				"shadowOffsetY	Canvas 2"
+			],
+			[
+				"glo",
+				"globalCompositeOperation	Canvas 2"
+			],
+			[
+				"stS",
+				"strokeStyle	Canvas 2"
+			],
+			[
+				"stro",
+				"strokeRect()	Canvas 2"
+			],
+			[
+				"setT",
+				"setTransform()	Canvas 2"
+			],
+			[
+				"str",
+				"strokeRect()	Canvas 2"
+			],
+			[
+				"color",
+				"colors	Default"
+			],
+			[
+				"colo",
+				"colors	Default"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"fillS",
+				"fillStyle	Default"
+			],
+			[
+				"ca",
+				"canvas	Tag"
+			],
+			[
+				"ro",
+				"rotate()	Canvas 2"
+			],
+			[
+				"fiS",
+				"fillStyle	Canvas 2"
+			],
+			[
+				"fi",
+				"fillRect()	Canvas 2"
+			],
+			[
+				"tr",
+				"translate()	Canvas 2"
+			],
+			[
+				"creatR",
+				"createRadialGradient()	Canvas 2"
+			],
+			[
+				"crR",
+				"createLinearGradient()	Canvas 2"
+			],
+			[
+				"clo",
+				"closePath()	Canvas 2"
+			],
+			[
+				"ad",
+				"addColorStop()	CanvasGrad"
+			],
+			[
+				"creL",
+				"createLinearGradient()	Canvas 2"
+			],
+			[
+				"add",
+				"addColorStop()	CanvasGrad"
+			],
+			[
+				"createL",
+				"createLinearGradient()	Canvas 2"
+			],
+			[
+				"q",
+				"quadraticCurveTo()	Canvas 2"
+			],
+			[
+				"be",
+				"bezierCurveTo()	Canvas 2"
+			],
+			[
+				"lin",
+				"lineTo()	Canvas 2"
+			],
+			[
+				"con",
+				"context	Default"
+			],
+			[
+				"fillR",
+				"fillRect()	Canvas 2"
+			],
+			[
+				"filR",
+				"fillRect()	Canvas 2"
+			],
+			[
+				"conte",
+				"context	Default"
+			],
+			[
+				"get",
+				"getContext()	Canvas"
+			],
+			[
+				"b",
+				"bottom"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"PARSE",
+				"parseFloat()"
+			],
+			[
+				"getS",
+				"getSum	Default"
+			],
+			[
+				"la",
+				"last_z	Default"
+			],
+			[
+				"las",
+				"last_x	Default"
+			],
+			[
+				"spee",
+				"speed	Default"
+			],
+			[
+				"tim",
+				"time	Default"
+			],
+			[
+				"cu",
+				"curTime	Default"
+			],
+			[
+				"Da",
+				"Date()"
+			],
+			[
+				"y",
+				"yaoyiyaoresult	Default"
+			],
+			[
+				"alert",
+				"alert()	Window"
+			],
+			[
+				"fun",
+				"function	Default"
+			],
+			[
+				"a",
+				"acceleration	Default"
+			],
+			[
+				"ya",
+				"yaoyiyaoresult"
+			],
+			[
+				"sh",
+				"show	Default"
+			],
+			[
+				"al",
+				"alert()	Window"
+			],
+			[
+				"head",
+				"header	Tag"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"sty",
+				"style	Default"
+			],
+			[
+				"nor",
+				"normal-cell-warp"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"mi",
+				"mini-cell-1"
+			],
+			[
+				"p",
+				"padding"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/E/源代码/BootStrap/Demo/index.html",
+			"settings":
+			{
+				"buffer_size": 6555,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/源代码/BootStrap/Demo/tooltips.html",
+			"settings":
+			{
+				"buffer_size": 1697,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"inp",
+				"Package Control: Install Package"
+			],
+			[
+				"in p",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/源代码/BootStrap/Demo/tooltips.html",
+		"/E/源代码/BootStrap/Demo/css/base.css",
+		"/D/Users/mohanlan/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/Users/mohanlan/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/E/源代码/BootStrap/Demo/index.html",
+		"/E/源代码/BootStrap/Demo/js/app.js",
+		"/E/源代码/BootStrap/Demo/css/app.css",
+		"/D/Users/mohanlan/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/D/Users/mohanlan/AppData/Roaming/Sublime Text 2/Packages/JsFormat/Default (Windows).sublime-keymap",
+		"/D/Users/mohanlan/AppData/Roaming/Sublime Text 2/Packages/JsFormat/JsFormat.sublime-settings",
+		"/D/Users/mohanlan/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/E/源代码/BootStrap/Demo/html/index.html",
+		"/E/源代码/BootStrap/Demo/css/bootstrap-theme.css.map",
+		"/E/源代码/BootStrap/Demo/css/bootstrap-theme.min.css",
+		"/E/源代码/BootStrap/Demo/css/bootstrap-theme.css",
+		"/E/源代码/BootStrap/Demo/html/index.html;",
+		"/E/源代码/html5/canvas/index1-1.html",
+		"/E/源代码/html5/canvas/index1-10.html",
+		"/E/源代码/html5/canvas/index1-13.html",
+		"/E/源代码/html5/canvas/js/index1-13.js",
+		"/E/源代码/html5/canvas/index1-12.html",
+		"/E/源代码/《HTML5与CSS3权威指南》配套源码/代码清单/第5章/代码清单5-1.html",
+		"/E/QQDownLoad/809107193/FileRecv/html5 flappy bird/flappy bird.html",
+		"/E/源代码/《HTML5与CSS3权威指南》配套源码/代码清单/第4章/代码清单4-1.html",
+		"/E/源代码/《HTML5与CSS3权威指南》配套源码/代码清单/第5章/脚本文件/代码清单5-15/script.js",
+		"/E/源代码/《HTML5与CSS3权威指南》配套源码/代码清单/第5章/脚本文件/代码清单5-16/script.js",
+		"/E/源代码/html5/canvas/index1-2.html",
+		"/E/源代码/html5/canvas/js/index1-5.js",
+		"/E/源代码/html5/canvas/index1-3.html",
+		"/E/源代码/html5/canvas/js/index1-2.js",
+		"/E/源代码/html5/canvas/js/index1-3.js",
+		"/E/源代码/html5/canvas/js/index1-4.js",
+		"/E/源代码/html5/canvas/js/index1-7.js",
+		"/E/源代码/html5/canvas/js/index1-11.js",
+		"/E/源代码/html5/canvas/index1-8.html",
+		"/E/源代码/html5/canvas/js/index1-12.js",
+		"/D/Users/mohanlan/Desktop/123.html",
+		"/E/源代码/html5/canvas/js/index1-8.js",
+		"/E/源代码/html5/canvas/index1-11.html",
+		"/E/源代码/html5/canvas/js/index1-10.js",
+		"/E/源代码/html5/canvas/index1-9.html",
+		"/E/源代码/html5/canvas/js/index1-9.js",
+		"/E/源代码/html5/canvas/js/index1-1.js",
+		"/E/源代码/html5/canvas/index1-4.html",
+		"/E/源代码/html5/canvas/index1-7.html",
+		"/E/源代码/html5/canvas/js/index1-6.js",
+		"/E/源代码/html5/canvas/index1-8.js",
+		"/E/源代码/html5/canvas/index1-5.html",
+		"/E/源代码/html5/canvas/index1-6.html",
+		"/E/源代码/html5/canvas/js/index1-5.js'",
+		"/E/源代码/JqueryMobile/Form&List/index.html",
+		"/E/源代码/html5/canvas/新建文本文档.txt",
+		"/E/源代码/JqueryMobile/Form&List/css/jquery.mobile-theme-sumcem.css",
+		"/E/源代码/JqueryMobile/Form&List/css/jquery.mobile-1.4.2.min.css",
+		"/E/源代码/jquery.mobile-1.4.2/demos/index.html",
+		"/E/BaiduYun/JqueryMobile视频教程/第一讲  HTML5+PhoneGap跨平台移动应用软件开发 概述/demo1.1/index.html",
+		"/E/QQDownLoad/809107193/FileRecv/dianwutong/dianwutong/common.html",
+		"/E/QQDownLoad/809107193/FileRecv/dianwutong/dianwutong/css/common.css",
+		"/E/源代码/JqueryMobileDemo/index.html",
+		"/E/书籍/JQuery Mobile权威指南+附书源码+中文api/《jQuery%2BMobile权威指南》%28陶国荣%29源码120828/《jQuery Mobile实战》(陶国荣)源码/Ch4/4-13.htm",
+		"/E/书籍/JQuery Mobile权威指南+附书源码+中文api/《jQuery%2BMobile权威指南》%28陶国荣%29源码120828/《jQuery Mobile实战》(陶国荣)源码/Ch4/4-3.htm",
+		"/E/源代码/jquery.mobile-1.4.2/demos/pages/index.html",
+		"/E/书籍/JQuery Mobile权威指南+附书源码+中文api/《jQuery%2BMobile权威指南》%28陶国荣%29源码120828/《jQuery Mobile实战》(陶国荣)源码/Ch2/2-3.htm",
+		"/E/书籍/JQuery Mobile权威指南+附书源码+中文api/《jQuery%2BMobile权威指南》%28陶国荣%29源码120828/《jQuery Mobile实战》(陶国荣)源码/Ch2/2-4.htm",
+		"/E/书籍/JQuery Mobile权威指南+附书源码+中文api/《jQuery%2BMobile权威指南》%28陶国荣%29源码120828/《jQuery Mobile实战》(陶国荣)源码/Ch2/2-1.htm",
+		"/E/源代码/test/index.html",
+		"/C/XAMPP/htdocs/index.php",
+		"/C/XAMPP/htdocs/mohanlan/index.php"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"obj",
+			"interval",
+			"yanzheng",
+			"></",
+			"\n",
+			"pipeImage1",
+			"400",
+			"		\n",
+			"quadraticCurveTo",
+			")\n",
+			"custom-icon",
+			".ui-nosvg .ui-alt-icon .ui-icon-sumcem:after",
+			".ui-icon-bars:after",
+			".ui-alt-icon.ui-icon-bars:after, .ui-alt-icon .ui-icon-bars:after",
+			".ui-alt-icon.ui-icon-search:after, .ui-alt-icon",
+			".ui-btn",
+			".ui-content .ui-listview",
+			".ui-content .ui-listview, .ui-panel-inner > .ui-listview",
+			";\n",
+			"a",
+			"count"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/E/源代码/BootStrap/Demo/index.html",
+					"settings":
+					{
+						"buffer_size": 6555,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/E/源代码/BootStrap/Demo/tooltips.html",
+					"settings":
+					{
+						"buffer_size": 1697,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								1697
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"tool",
+				"Demo/tooltips.html"
+			],
+			[
+				"in",
+				"Demo/index.html"
+			],
+			[
+				"base",
+				"Demo/css/base.css"
+			],
+			[
+				"too",
+				"Demo/tooltips.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/E/源代码/sublime/GitHub.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 229.0,
+	"status_bar_visible": true
+}

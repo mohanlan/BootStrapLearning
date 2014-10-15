@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<link href="css/bootstrap.min.css" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="css/base.css">
+	<!--[if lt IE 9]>
+      <script src="http://cdn.bootcss.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="http://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <style type="text/css">
+    	.s1{position: relative;top: 100px;left: 100px;}
+    </style>
+</head>
+<body>
+	<div class="s1">
+	<button type="button" class="btn btn-default" data-toggle="tooltip" data-placement="left" title="Tooltip on left">Tooltip on left</button>
+	<button type="button" class="btn btn-default" data-toggle="tooltip" data-placement="top" title="Tooltip on top">Tooltip on top</button>
+
+	<button type="button" class="btn btn-default" data-toggle="tooltip" data-placement="bottom" title="单笔限额<span class='text-orange'>1万元</span>,每日限额<span class='text-orange'>2万元</span>">Tooltip on bottom</button>
+
+	<button type="button" class="btn btn-default" data-toggle="tooltip" data-placement="right" title="Tooltip on right">Tooltip on right</button>
+	</div>
+	<script src="http://cdn.bootcss.com/jquery/1.11.1/jquery.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script type="text/javascript">
+  	var options = {
+        animation: true,
+        trigger: 'focus', //触发tooltip的事件
+        delay: { "show": 0, "hide": 1000 },
+        html:true
+    }
+  	$('a[data-toggle=tooltip]').mouseover(function() {  $(this).tooltip('show');})
+  	$("button[data-toggle=tooltip]").mouseover(function(event) {
+			$(this).tooltip(options);
+
+  	});
+  </script>
+</body>
+</html>
