@@ -22,19 +22,23 @@
 
 	<button type="button" class="btn btn-default" data-toggle="tooltip" data-placement="right" title="Tooltip on right">Tooltip on right</button>
 	</div>
+  <!-- <button type="button" class="btn btn-danger" data-toggle="collapse" data-target="#demo" aria-expanded="true" aria-controls="demo"> -->
+  
+  <div id="demo" class="collapse in">123456</div>
+  <a class="puu-right" href="javascript:void(0)" data-toggle="collapse" data-target="#demo" aria-expanded="true" aria-controls="demo" >collapse</a>
 	<script src="http://cdn.bootcss.com/jquery/1.11.1/jquery.min.js"></script>
   <script src="js/bootstrap.min.js"></script>
   <script type="text/javascript">
+    $('a[data-toggle=collapse]').collapse();
   	var options = {
         animation: true,
-        trigger: 'focus', //触发tooltip的事件
+        trigger: 'hover', //触发tooltip的事件
         delay: { "show": 0, "hide": 1000 },
         html:true
     }
   	$('a[data-toggle=tooltip]').mouseover(function() {  $(this).tooltip('show');})
   	$("button[data-toggle=tooltip]").mouseover(function(event) {
 			$(this).tooltip(options);
-
   	});
   </script>
 </body>

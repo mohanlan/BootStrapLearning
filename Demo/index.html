@@ -153,15 +153,18 @@
     <script src="http://cdn.bootcss.com/jquery/1.11.1/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script type="text/javascript">
-    	var time=60;
-    	var interval;
     	$(function init(){
+    		var time=60;
+	    	var interval;
 	    	$("#yanzheng").on("click",function (){
 	    		var oba=this;
-	    		interval=setInterval(function(){yanzheng(oba)},"1000");
+	    		interval=setInterval(function(){
+
+	    			yanzheng(oba);
+	    		},"1000");
 	    	});
-    	})
-    	function yanzheng(o){
+
+	    	function yanzheng(o){
     		if (time>0) {
     			o.disabled=true;
     			o.value=time+"秒后重新获取";
@@ -173,6 +176,8 @@
     			clearInterval(interval);
     		}	
     	}
+    })
+    	
     </script>
   </body>
 </html>
